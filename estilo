@@ -1,0 +1,65 @@
+* {
+  margen :  0 ;
+  relleno :  0 ;
+  tamaño de caja : cuadro de borde;
+}
+
+cuerpo {
+  imagen de fondo :  url ( 'fondo.jpg' );
+}
+
+. formulario-registro {
+  ancho :  400 píxeles ;
+  fondo :  # 24303c ;
+  relleno :  30 px ;
+  margen : automático;
+  margen superior :  100 px ;
+  borde-radio :  4 px ;
+  familia de fuentes :  'calibri' ;
+  color : blanco;
+  sombra de cuadro :  7 px  13 px  37 px  # 000 ;
+}
+
+. formulario-registro  h4 {
+  tamaño de fuente :  22 px ;
+  margen inferior :  20 px ;
+}
+
+. controles {
+  ancho :  100 % ;
+  fondo :  # 24303c ;
+  relleno :  10 px ;
+  borde-radio :  4 px ;
+  margen inferior :  16 px ;
+  borde :  1 px sólido # 1f53c5 ;
+  familia de fuentes :  'calibri' ;
+  tamaño de fuente :  18 px ;
+  color : blanco;
+}
+
+. formulario-registro  p {
+  altura :  40 píxeles ;
+  alineación de texto : centro;
+  tamaño de fuente :  18 px ;
+  altura de línea :  40 px ;
+}
+
+. formulario-registrar  un {
+  color : blanco;
+  decoración de texto : ninguno;
+}
+
+. formulario-registro  a : hover {
+  color : blanco;
+  decoración de texto : subrayado;
+}
+
+. formulario-registro . botones {
+  ancho :  100 % ;
+  fondo :  # 1f53c5 ;
+  borde : ninguno;
+  relleno :  12 px ;
+  color : blanco;
+  margen :  16 px  0 ;
+  tamaño de fuente :  16 px 
+ 
