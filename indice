@@ -1,0 +1,23 @@
+<!DOCTYPEhtml >
+< html  lang =" es " >
+< cabeza >
+  < juego de caracteres meta  =" UTF-8 " >
+  < meta  name =" viewport " content =" ancho=ancho-del-dispositivo, escala-inicial=1.0 " >
+  < meta  http-equiv =" X-UA-Compatible " content =" ie=edge " >
+  < enlace  rel =" hoja de estilo " href =" estilo.css " >
+  < title > Formulario Registro </ title >
+</ cabeza >
+< cuerpo >
+  < sección  clase =" formulario-registro " >
+    < h4 > Formulario Registro </ h4 >
+    < clase de entrada  =" controles " tipo =" texto " nombre =" nombres " id =" nombres " placeholder =" Ingrese su Nombre " >
+    < clase de entrada  =" controles " tipo =" texto " nombre =" apellidos " id =" apellidos " placeholder =" Ingrese su Apellido " >
+    < clase de entrada  =" controles " tipo =" email " nombre =" correo " id =" correo " placeholder =" Ingrese su Correo " >
+    < clase de entrada  =" controles " tipo =" contraseña " nombre =" correo " id =" correo " placeholder =" Ingrese su Contraseña " >
+    < p > Estoy de acuerdo con < a  href =" # " > Términos y Condiciones </ a > </ p >
+    < clase de entrada  =" botones " tipo =" enviar " valor =" Registrador " >
+    < p > < a  href =" # " > ¿Ya tengo Cuenta? </a> < / p > _
+  </ sección >
+
+</ cuerpo >
+</ html >
